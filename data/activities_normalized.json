@@ -27538,5 +27538,17 @@
     "start_date_local": "2026-02-14T08:48:17Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-02-15",
+    "distance": 15799.6,
+    "elevation_gain": 1224.0,
+    "id": "17402286655",
+    "moving_time": 5398.0,
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-15T08:03:24Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
