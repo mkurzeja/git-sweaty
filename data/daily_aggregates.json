@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-18T15:40:58.327031+00:00",
+  "generated_at": "2026-02-19T15:38:07.489359+00:00",
   "years": {
     "2020": {
       "Kayaking": {
@@ -19477,6 +19477,15 @@
           "distance": 4400.0,
           "elevation_gain": 0.0,
           "moving_time": 3687.0
+        },
+        "2026-02-19": {
+          "activity_ids": [
+            "17449388603"
+          ],
+          "count": 1,
+          "distance": 3800.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3464.0
         }
       },
       "VirtualRide": {
@@ -19650,6 +19659,15 @@
           "distance": 15799.6,
           "elevation_gain": 1224.0,
           "moving_time": 5398.0
+        },
+        "2026-02-18": {
+          "activity_ids": [
+            "17441098394"
+          ],
+          "count": 1,
+          "distance": 18292.3,
+          "elevation_gain": 852.0,
+          "moving_time": 4498.0
         }
       },
       "WeightTraining": {
