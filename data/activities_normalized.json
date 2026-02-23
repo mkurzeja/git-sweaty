@@ -27670,5 +27670,17 @@
     "start_date_local": "2026-02-21T10:13:32Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-02-23",
+    "distance": 4150.0,
+    "elevation_gain": 0.0,
+    "id": "17494222135",
+    "moving_time": 3646.0,
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-02-23T13:36:10Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
