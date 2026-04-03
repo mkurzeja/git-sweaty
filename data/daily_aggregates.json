@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T15:50:19.937654+00:00",
+  "generated_at": "2026-04-03T15:32:18.553721+00:00",
   "years": {
     "2020": {
       "Kayaking": {
@@ -19313,6 +19313,15 @@
           "distance": 44388.6,
           "elevation_gain": 0.0,
           "moving_time": 5586.0
+        },
+        "2026-04-02": {
+          "activity_ids": [
+            "17952752560"
+          ],
+          "count": 1,
+          "distance": 37291.9,
+          "elevation_gain": 0.0,
+          "moving_time": 4612.0
         }
       },
       "Run": {
@@ -19540,6 +19549,15 @@
           "distance": 10094.2,
           "elevation_gain": 32.0,
           "moving_time": 2927.0
+        },
+        "2026-04-03": {
+          "activity_ids": [
+            "17960233389"
+          ],
+          "count": 1,
+          "distance": 19451.0,
+          "elevation_gain": 49.0,
+          "moving_time": 5404.0
         }
       },
       "Swim": {
