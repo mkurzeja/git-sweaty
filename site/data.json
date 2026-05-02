@@ -16771,6 +16771,34 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 8,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 10,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 13,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 15,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36223,6 +36251,17 @@
           "distance": 120038.9,
           "elevation_gain": 272.0,
           "moving_time": 12568.0
+        },
+        "2026-05-02": {
+          "activity_ids": [
+            "18341982182",
+            "18345624524",
+            "18346889763"
+          ],
+          "count": 3,
+          "distance": 56208.200000000004,
+          "elevation_gain": 28.0,
+          "moving_time": 8264.0
         }
       },
       "Run": {
@@ -36522,6 +36561,15 @@
           "distance": 15941.2,
           "elevation_gain": 46.0,
           "moving_time": 4501.0
+        },
+        "2026-05-02": {
+          "activity_ids": [
+            "18342657103"
+          ],
+          "count": 1,
+          "distance": 12259.6,
+          "elevation_gain": 27.0,
+          "moving_time": 3238.0
         }
       },
       "Swim": {
@@ -37309,7 +37357,7 @@
       }
     }
   },
-  "generated_at": "2026-05-01T15:45:04.114319+00:00",
+  "generated_at": "2026-05-02T15:37:09.504069+00:00",
   "other_bucket": "OtherSports",
   "source": "strava",
   "type_meta": {
