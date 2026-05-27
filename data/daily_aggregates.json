@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T17:50:59.204641+00:00",
+  "generated_at": "2026-05-27T17:50:26.721879+00:00",
   "years": {
     "2020": {
       "Kayaking": {
@@ -20832,6 +20832,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4460.0
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "18673368822"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4067.0
         }
       }
     }
