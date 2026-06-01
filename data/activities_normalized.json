@@ -29282,13 +29282,37 @@
   {
     "date": "2026-05-30",
     "distance": 86245.9,
-    "elevation_gain": 626.0,
+    "elevation_gain": 815.6,
     "id": "18719772696",
     "moving_time": 8633.0,
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-05-30T11:32:08Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 36598.2,
+    "elevation_gain": 98.0,
+    "id": "18731985672",
+    "moving_time": 4389.0,
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-31T17:17:54Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 2600.0,
+    "elevation_gain": 0.0,
+    "id": "18741074064",
+    "moving_time": 2343.0,
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-01T13:32:38Z",
+    "type": "Swim",
     "year": 2026
   }
 ]
