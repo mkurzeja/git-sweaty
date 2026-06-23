@@ -29650,5 +29650,17 @@
     "start_date_local": "2026-06-22T13:32:21Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 2561.9,
+    "elevation_gain": 13.0,
+    "id": "19034671158",
+    "moving_time": 2269.0,
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-23T13:17:23Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
