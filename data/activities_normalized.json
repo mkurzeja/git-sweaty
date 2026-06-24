@@ -29662,5 +29662,29 @@
     "start_date_local": "2026-06-23T13:17:23Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19048357121",
+    "moving_time": 4697.0,
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-24T12:48:49Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 44591.7,
+    "elevation_gain": 0.0,
+    "id": "19051428969",
+    "moving_time": 5191.0,
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-24T17:23:27Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
