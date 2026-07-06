@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T15:59:46.018885+00:00",
+  "generated_at": "2026-07-06T17:33:45.011833+00:00",
   "years": {
     "2020": {
       "Kayaking": {
@@ -19662,6 +19662,16 @@
           "distance": 24347.7,
           "elevation_gain": 214.0,
           "moving_time": 2767.0
+        },
+        "2026-07-05": {
+          "activity_ids": [
+            "19192418153",
+            "19193210836"
+          ],
+          "count": 2,
+          "distance": 356234.0,
+          "elevation_gain": 3112.0,
+          "moving_time": 37202.0
         }
       },
       "Run": {
@@ -20177,6 +20187,15 @@
           "distance": 10816.9,
           "elevation_gain": 27.0,
           "moving_time": 3180.0
+        },
+        "2026-07-05": {
+          "activity_ids": [
+            "19193210797"
+          ],
+          "count": 1,
+          "distance": 41709.1,
+          "elevation_gain": 145.0,
+          "moving_time": 12135.0
         }
       },
       "Swim": {
@@ -20611,6 +20630,15 @@
           "distance": 2117.4,
           "elevation_gain": 5.3,
           "moving_time": 2255.0
+        },
+        "2026-07-05": {
+          "activity_ids": [
+            "19193210679"
+          ],
+          "count": 1,
+          "distance": 3717.3,
+          "elevation_gain": 9.5,
+          "moving_time": 3815.0
         }
       },
       "VirtualRide": {
@@ -21287,6 +21315,16 @@
           "distance": 1235.0,
           "elevation_gain": 21.0,
           "moving_time": 428.0
+        },
+        "2026-07-05": {
+          "activity_ids": [
+            "19193210521",
+            "19193210532"
+          ],
+          "count": 2,
+          "distance": 344.2,
+          "elevation_gain": 1.0,
+          "moving_time": 167.0
         }
       }
     }
