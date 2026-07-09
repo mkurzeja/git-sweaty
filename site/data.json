@@ -17443,6 +17443,34 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-07-08",
+      "hour": 17,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-09",
+      "hour": 11,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-09",
+      "hour": 14,
+      "subtype": "Hike",
+      "type": "Hike",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-09",
+      "hour": 15,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36682,6 +36710,15 @@
           "distance": 2561.9,
           "elevation_gain": 13.0,
           "moving_time": 2269.0
+        },
+        "2026-07-09": {
+          "activity_ids": [
+            "19243104034"
+          ],
+          "count": 1,
+          "distance": 2715.5,
+          "elevation_gain": 19.0,
+          "moving_time": 2613.0
         }
       },
       "Ride": {
@@ -37120,12 +37157,23 @@
         },
         "2026-07-08": {
           "activity_ids": [
-            "19227318957"
+            "19227318957",
+            "19231027333"
           ],
-          "count": 1,
-          "distance": 4051.8,
-          "elevation_gain": 18.0,
-          "moving_time": 1355.0
+          "count": 2,
+          "distance": 7437.6,
+          "elevation_gain": 22.0,
+          "moving_time": 2325.0
+        },
+        "2026-07-09": {
+          "activity_ids": [
+            "19242171329",
+            "19243656415"
+          ],
+          "count": 2,
+          "distance": 14472.2,
+          "elevation_gain": 47.0,
+          "moving_time": 4642.0
         }
       },
       "Run": {
@@ -38783,7 +38831,7 @@
       }
     }
   },
-  "generated_at": "2026-07-08T16:24:30.199160+00:00",
+  "generated_at": "2026-07-09T17:11:16.791085+00:00",
   "other_bucket": "OtherSports",
   "source": "strava",
   "type_meta": {
