@@ -17758,6 +17758,13 @@
       "subtype": "Swim",
       "type": "Swim",
       "year": 2026
+    },
+    {
+      "date": "2026-08-14",
+      "hour": 10,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -39439,6 +39446,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4398.0
+        },
+        "2026-08-14": {
+          "activity_ids": [
+            "19735886140"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2529.0
         }
       },
       "Workout": {
@@ -39465,7 +39481,7 @@
       }
     }
   },
-  "generated_at": "2026-08-13T15:47:27.313748+00:00",
+  "generated_at": "2026-08-14T15:40:17.308442+00:00",
   "other_bucket": "OtherSports",
   "source": "strava",
   "type_meta": {
