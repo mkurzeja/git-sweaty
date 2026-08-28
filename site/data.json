@@ -17870,6 +17870,13 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-08-28",
+      "hour": 18,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -39695,6 +39702,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 6038.0
+        },
+        "2026-08-28": {
+          "activity_ids": [
+            "19938219802"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1884.0
         }
       },
       "Workout": {
@@ -39721,7 +39737,7 @@
       }
     }
   },
-  "generated_at": "2026-08-28T00:08:55.679303+00:00",
+  "generated_at": "2026-08-28T23:45:27.955489+00:00",
   "other_bucket": "OtherSports",
   "source": "strava",
   "type_meta": {
