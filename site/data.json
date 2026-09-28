@@ -18129,6 +18129,13 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-09-28",
+      "hour": 13,
+      "subtype": "Swim",
+      "type": "Swim",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -39389,6 +39396,15 @@
           "distance": 2800.0,
           "elevation_gain": 0.0,
           "moving_time": 2459.0
+        },
+        "2026-09-28": {
+          "activity_ids": [
+            "20363302265"
+          ],
+          "count": 1,
+          "distance": 2600.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2320.0
         }
       },
       "VirtualRide": {
@@ -40313,7 +40329,7 @@
       }
     }
   },
-  "generated_at": "2026-09-27T18:45:19.474537+00:00",
+  "generated_at": "2026-09-28T20:55:10.565155+00:00",
   "other_bucket": "OtherSports",
   "source": "strava",
   "type_meta": {
