@@ -18353,6 +18353,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-10-25",
+      "hour": 16,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -40799,6 +40806,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3167.0
+        },
+        "2026-10-25": {
+          "activity_ids": [
+            "20728373878"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2187.0
         }
       },
       "Workout": {
@@ -40825,7 +40841,7 @@
       }
     }
   },
-  "generated_at": "2026-10-24T17:42:41.388141+00:00",
+  "generated_at": "2026-10-25T17:57:11.262120+00:00",
   "other_bucket": "OtherSports",
   "source": "strava",
   "type_meta": {
