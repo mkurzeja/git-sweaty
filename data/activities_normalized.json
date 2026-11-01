@@ -31570,5 +31570,29 @@
     "start_date_local": "2026-10-31T10:44:08Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20813784895",
+    "moving_time": 1797.0,
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-01T10:11:04Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 38632.5,
+    "elevation_gain": 186.0,
+    "id": "20817550963",
+    "moving_time": 4569.0,
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-01T13:20:59Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
