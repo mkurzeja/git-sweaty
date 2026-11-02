@@ -31594,5 +31594,29 @@
     "start_date_local": "2026-11-01T13:20:59Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-02",
+    "distance": 17177.6,
+    "elevation_gain": 17.0,
+    "id": "20827566118",
+    "moving_time": 4616.0,
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-02T10:49:53Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-02",
+    "distance": 3000.0,
+    "elevation_gain": 0.0,
+    "id": "20829153911",
+    "moving_time": 2599.0,
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-11-02T13:37:11Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
